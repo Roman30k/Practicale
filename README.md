@@ -33,3 +33,13 @@
 ![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/1121.png)
 ![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/2232.png)
 ![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/3343.png)
+***
+# _Завдання 4_
+### За основу використовувати вихідний текст проекту попередньої лабораторної роботи Використовуючи шаблон проектування Factory Method
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/1121.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/2232.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/3343.png)
+## Також:
+### Продемонструвати заміщення (перевизначення, overriding), поєднання (перевантаження, overloading), динамічне призначення методів (Пізнє зв'язування, поліморфізм, dynamic method dispatch).
+### Забезпечити діалоговий інтерфейс із користувачем.
+### Розробити клас для тестування основної функціональності.
