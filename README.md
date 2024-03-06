@@ -21,16 +21,15 @@
 ***
 # _Завдання 3_
 ### Як основа використовувати вихідний текст проекту попередньої роботи.
-![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/111.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/1112.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/1113.png)
 ## Також:
 ### Забезпечити розміщення результатів обчислень у колекції з можливістю збереження/відновлення.
-![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/1111.png)
-![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/2222.png)
 ### Використовуючи шаблон проектування Factory Method (Virtual Constructor), розробити ієрархію, що передбачає розширення за рахунок додавання нових класів, що відображаються.
 ### Розширити ієрархію інтерфейсом об'єктів, що "фабрикуються", що представляють набір методів для відображення результатів обчислень.
 ### Реалізувати ці методи виведення результатів у текстовому вигляді. Розробити та реалізувати інтерфейс для "фабрикуючого" методу.
 ### Забезпечити діалоговий інтерфейс із користувачем.
 ### Розробити клас для тестування основної функціональності.
-![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/3333.png)
-![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/4444.png)
-![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/5555.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/1121.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/2232.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/3343.png)
