@@ -4,7 +4,7 @@
 ***
 # _Завдання 2_
 ### Знайти двійкове уявлення цілісного значення повної енергії фізичного тіла при заданих значеннях маси, швидкості та висоти. 
-![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/111.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/11.png)
 ## Також:
 ### Розробити клас, що серіалізується, для зберігання параметрів і результатів обчислень.
 ![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/222.png)
@@ -15,6 +15,9 @@
 ### Розробити клас для демонстрації в діалоговому режимі збереження та відновлення стану об'єкта, використовуючи серіалізацію. Показати особливості використання transient полів.
 ![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/666.png)
 ![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/777.png)
+## Код:
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/1112.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/1113.png)
 ***
 # _Завдання 3_
 ### Як основа використовувати вихідний текст проекту попередньої роботи.
