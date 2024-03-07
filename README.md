@@ -36,11 +36,11 @@
 ![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/3343.png)
 ***
 # _Завдання 4_
-### За основу використовувати вихідний текст проекту попередньої лабораторної роботи Використовуючи шаблон проектування Factory Method
+### За основу використовувати вихідний текст проекту попередньої лабораторної роботи
 ![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/1121.png)
 ![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/2232.png)
 ![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/3343.png)
-## Також:
+## Оновлення які потрібно було внести у код:
 ### Продемонструвати заміщення (перевизначення, overriding), поєднання (перевантаження, overloading), динамічне призначення методів (Пізнє зв'язування, поліморфізм, dynamic method dispatch).
 ### Забезпечити діалоговий інтерфейс із користувачем.
 ### Розробити клас для тестування основної функціональності.
@@ -48,4 +48,24 @@
 ![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/1211.png)
 ![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/2322.png)
 ![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/3433.png)
+***
+# _Завдання 5_
+### За основу використовувати вихідний текст проекту попередньої лабораторної роботи
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/1211.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/2322.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/3433.png)
+## Оновлення які потрібно було внести у код:
+### Реалізувати можливість скасування (undo) операцій (команд).
+### Продемонструвати поняття "макрокоманда"
+### При розробці програми використовувати шаблон Singletone.
+### Забезпечити діалоговий інтерфейс із користувачем.
+### Розробити клас для тестування функціональності програми.
+## Код:
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/11111.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/22222.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/33333.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/44444.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/55555.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/66666.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/77777.png)
 ***
