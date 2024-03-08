@@ -69,3 +69,25 @@
 ![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/66666.png)
 ![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/77777.png)
 ***
+# _Завдання 6_
+### За основу використовувати вихідний текст проекту попередньої лабораторної роботи
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/11111.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/22222.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/33333.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/44444.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/55555.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/66666.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/77777.png)
+## Оновлення які потрібно було внести у код:
+### Продемонструвати можливість паралельної обробки елементів колекції (пошук мінімуму, максимуму, обчислення середнього значення, відбір за критерієм, статистична обробка тощо).
+### Управління чергою завдань (команд) реалізувати за допомогою шаблону Worker Thread.
+## Код:
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/121212.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/131313.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/141414.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/151515.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/161616.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/171717.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/181818.png)
+![Код](https://github.com/Roman30k/Practicale/blob/main/скріни/191919.png)
+***
